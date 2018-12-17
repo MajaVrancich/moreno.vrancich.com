@@ -1,6 +1,6 @@
 ---
 title: Moreno Vrancich
-subtitle: Homepage
+subtitle: ' '
 image: /img/img_1815.jpg
 blurb:
   heading: Sretan Božić

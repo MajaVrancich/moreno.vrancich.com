@@ -8,10 +8,10 @@ blurb:
     Dragi Moreno, nadam se da ti se sviđa poklon. Sada imaš svoju super-cool web
     stranicu koju možeš sam mijenjati, voditi blog, pisati o važnim ili nevažnim
     stvarima. Yuki i ja te volimo :) 
-intro:
+<!--intro:
   heading: ''
   text: ''
-<!--products: []
+products: []
 values:
   heading: ''
   text: ''-->

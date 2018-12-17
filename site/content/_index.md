@@ -11,9 +11,9 @@ blurb:
 intro:
   heading: ''
   text: ''
-products: []
+<!--products: []
 values:
   heading: ''
-  text: ''
+  text: ''-->
 ---
 

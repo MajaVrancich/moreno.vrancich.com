@@ -1,7 +1,7 @@
 ---
 title: Moreno Vrancich
 subtitle: ' '
-image: /img/img_1815.jpg
+image: /img/vela-draga1.jpg
 blurb:
   heading: Ta-da!
   text: >-

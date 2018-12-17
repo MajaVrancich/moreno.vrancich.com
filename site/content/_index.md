@@ -4,22 +4,39 @@ subtitle: ' '
 image: /img/img_1815.jpg
 blurb:
   heading: Ta-da!
-  text: "Dragi Moreno, nadam se da ti se sviđa poklon. Sada imaš svoju super-cool web
+  text: >-
+    Dragi Moreno, nadam se da ti se sviđa poklon. Sada imaš svoju super-cool web
     stranicu koju možeš sam mijenjati, voditi blog, pisati o važnim ili nevažnim
-    stvarima. Yuki i ja te volimo :)"
-
+    stvarima. Za sada imaš na stranicama "viška" sadržaja čisto da vidiš koje
+    tipove sadržaja možeš imati, pa ćemo po malo srediti sve. Yuki i ja te
+    volimo :)
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: >-
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: >-
+      We sell green and roasted coffee beans that are sourced directly from
+      independent farmers and farm cooperatives. We’re proud to offer a variety
+      of coffee beans grown with great care for the environment and local
+      communities. Check our post or contact us directly for current
+      availability.
+  - image: /img/illustrations-coffee-gear.svg
+    text: >-
+      We offer a small, but carefully curated selection of brewing gear and
+      tools for every taste and experience level. No matter if you roast your
+      own beans or just bought your first french press, you’ll find a gadget to
+      fall in love with in our shop.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
-
-
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
 

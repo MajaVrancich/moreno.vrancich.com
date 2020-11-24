@@ -3,31 +3,31 @@
     <title>moreno.vrancich</title>
     <link href="https://moreno.vrancich.com/feed.xml" rel="self" />
     <link href="https://moreno.vrancich.com" />
-    <updated>2020-11-24T21:17:14+01:00</updated>
+    <updated>2020-11-24T21:19:24+01:00</updated>
     <author>
         <name>Moreno Vrnacich</name>
     </author>
     <id>https://moreno.vrancich.com</id>
 
     <entry>
-        <title>Hello world</title>
+        <title>Ja sam sretan</title>
         <author>
             <name>Moreno Vrnacich</name>
         </author>
         <link href="https://moreno.vrancich.com/hello-world.html"/>
         <id>https://moreno.vrancich.com/hello-world.html</id>
 
-        <updated>2019-05-15T19:32:30+02:00</updated>
+        <updated>2020-11-24T21:18:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://moreno.vrancich.com/media/posts/1/" alt="" />
-                    Ovo je probna stranica, let the games begin!
+                    Nakon godinu dana mogu raditi svoj sajt!!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://moreno.vrancich.com/media/posts/1/" alt="" />
-                Ovo je probna stranica, let the games begin!
+                Nakon godinu dana mogu raditi svoj sajt!!
             ]]>
         </content>
     </entry>

@@ -3,7 +3,7 @@
     <title>moreno.vrancich</title>
     <link href="https://moreno.vrancich.com/feed.xml" rel="self" />
     <link href="https://moreno.vrancich.com" />
-    <updated>2020-11-24T21:19:24+01:00</updated>
+    <updated>2020-11-24T21:27:35+01:00</updated>
     <author>
         <name>Moreno Vrnacich</name>
     </author>
@@ -17,17 +17,18 @@
         <link href="https://moreno.vrancich.com/hello-world.html"/>
         <id>https://moreno.vrancich.com/hello-world.html</id>
 
-        <updated>2020-11-24T21:18:49+01:00</updated>
+        <updated>2020-11-24T21:27:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://moreno.vrancich.com/media/posts/1/" alt="" />
-                    Nakon godinu dana mogu raditi svoj sajt!!
+                    Nakon godinu dana mogu raditi svoj sajt!! JUPI! 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://moreno.vrancich.com/media/posts/1/" alt="" />
-                Nakon godinu dana mogu raditi svoj sajt!!
+                <p>Nakon godinu dana mogu raditi svoj sajt!! JUPI!</p>
+<p><img class="post__image" src="https://moreno.vrancich.com/media/posts/1/IMG_5474.JPG" alt="ja" width="4000" height="3000"></p>
             ]]>
         </content>
     </entry>

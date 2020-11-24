@@ -2,12 +2,27 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "moreno.vrancich",
     "description": "",
-    "home_page_url": "https://MajaVrancich.github.io/mv",
-    "feed_url": "https://MajaVrancich.github.io/mv/feed.json",
+    "home_page_url": "https://moreno.vrancich.com",
+    "feed_url": "https://moreno.vrancich.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Moreno Vrnacich"
     },
     "items": [
+        {
+            "id": "https://moreno.vrancich.com/hello-world.html",
+            "url": "https://moreno.vrancich.com/hello-world.html",
+            "title": "Hello world",
+            "summary": "Ovo je probna stranica, let the games begin!",
+            "content_html": "Ovo je probna stranica, let the games begin!",
+            "image": "https://moreno.vrancich.com/media/posts/1/",
+            "author": {
+                "name": "Moreno Vrnacich"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-15T19:32:30+02:00",
+            "date_modified": "2019-05-15T19:32:30+02:00"
+        }
     ]
 }

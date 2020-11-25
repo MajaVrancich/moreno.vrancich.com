@@ -3,12 +3,32 @@
     <title>moreno.vrancich</title>
     <link href="https://moreno.vrancich.com/feed.xml" rel="self" />
     <link href="https://moreno.vrancich.com" />
-    <updated>2020-11-25T17:25:52+01:00</updated>
+    <updated>2020-11-25T19:08:49+01:00</updated>
     <author>
         <name>Moreno Vrnacich</name>
     </author>
     <id>https://moreno.vrancich.com</id>
 
+    <entry>
+        <title>Abaut</title>
+        <author>
+            <name>Moreno Vrnacich</name>
+        </author>
+        <link href="https://moreno.vrancich.com/abaut.html"/>
+        <id>https://moreno.vrancich.com/abaut.html</id>
+
+        <updated>2020-11-25T19:08:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                    To sam ja, bla bla bla
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To sam ja, bla bla bla</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ali ali</title>
         <author>

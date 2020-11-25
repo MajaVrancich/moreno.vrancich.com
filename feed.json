@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://moreno.vrancich.com/ali-ali.html",
+            "url": "https://moreno.vrancich.com/ali-ali.html",
+            "title": "Ali ali",
+            "summary": "Ja neznam koristiti ovo čudo. Majkemi! Ali već kad smo tu ajde da probamo... 🍕 ",
+            "content_html": "<figure class=\"post__image\">Ja neznam koristiti ovo čudo.<br><strong>Majkemi!</strong><br><br>Ali već kad smo tu ajde da probamo...<br>🍕<br><img loading=\"lazy\"  src=\"https://moreno.vrancich.com/media/posts/2/piave.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://moreno.vrancich.com/media/posts/2/responsive/piave-xs.jpg 300w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-sm.jpg 480w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-md.jpg 768w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-lg.jpg 1024w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-xl.jpg 1360w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-2xl.jpg 1600w\"  alt=\"Il Piave\" width=\"741\" height=\"486\"></figure>",
+            "author": {
+                "name": "Moreno Vrnacich"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-25T17:25:52+01:00",
+            "date_modified": "2020-11-25T17:25:52+01:00"
+        },
+        {
             "id": "https://moreno.vrancich.com/hello-world.html",
             "url": "https://moreno.vrancich.com/hello-world.html",
             "title": "Ja sam sretan",

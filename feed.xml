@@ -3,12 +3,32 @@
     <title>moreno.vrancich</title>
     <link href="https://moreno.vrancich.com/feed.xml" rel="self" />
     <link href="https://moreno.vrancich.com" />
-    <updated>2020-11-24T21:27:25+01:00</updated>
+    <updated>2020-11-25T17:25:52+01:00</updated>
     <author>
         <name>Moreno Vrnacich</name>
     </author>
     <id>https://moreno.vrancich.com</id>
 
+    <entry>
+        <title>Ali ali</title>
+        <author>
+            <name>Moreno Vrnacich</name>
+        </author>
+        <link href="https://moreno.vrancich.com/ali-ali.html"/>
+        <id>https://moreno.vrancich.com/ali-ali.html</id>
+
+        <updated>2020-11-25T17:25:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ja neznam koristiti ovo čudo. Majkemi! Ali već kad smo tu ajde da probamo... 🍕 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image">Ja neznam koristiti ovo čudo.<br><strong>Majkemi!</strong><br><br>Ali već kad smo tu ajde da probamo...<br>🍕<br><img loading="lazy"  src="https://moreno.vrancich.com/media/posts/2/piave.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://moreno.vrancich.com/media/posts/2/responsive/piave-xs.jpg 300w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-sm.jpg 480w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-md.jpg 768w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-lg.jpg 1024w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-xl.jpg 1360w ,https://moreno.vrancich.com/media/posts/2/responsive/piave-2xl.jpg 1600w"  alt="Il Piave" width="741" height="486"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ja sam sretan</title>
         <author>

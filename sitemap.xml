@@ -1,8 +1,15 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://moreno.vrancich.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://moreno.vrancich.com/</loc>
 </url>
 <url>
 <loc>https://moreno.vrancich.com/hello-world.html</loc>
+<lastmod>2020-11-24T21:27:25+01:00</lastmod>
+<image:image>
+<image:loc>https://moreno.vrancich.com/media\posts\1/IMG_5474.JPG</image:loc>
+<image:title><![CDATA[ja]]></image:title>
+</image:image>
 </url>
 </urlset>

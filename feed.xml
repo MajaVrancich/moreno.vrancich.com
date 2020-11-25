@@ -3,7 +3,7 @@
     <title>moreno.vrancich</title>
     <link href="https://moreno.vrancich.com/feed.xml" rel="self" />
     <link href="https://moreno.vrancich.com" />
-    <updated>2020-11-24T21:27:35+01:00</updated>
+    <updated>2020-11-24T21:27:25+01:00</updated>
     <author>
         <name>Moreno Vrnacich</name>
     </author>
@@ -20,15 +20,13 @@
         <updated>2020-11-24T21:27:25+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://moreno.vrancich.com/media/posts/1/" alt="" />
-                    Nakon godinu dana mogu raditi svoj sajt!! JUPI! 
+                    Nakon godinu dana mogu raditi svoj sajt!! JUPI!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://moreno.vrancich.com/media/posts/1/" alt="" />
                 <p>Nakon godinu dana mogu raditi svoj sajt!! JUPI!</p>
-<p><img class="post__image" src="https://moreno.vrancich.com/media/posts/1/IMG_5474.JPG" alt="ja" width="4000" height="3000"></p>
+<figure class="post__image"><img loading="lazy"  src="https://moreno.vrancich.com/media/posts/1/IMG_5474.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://moreno.vrancich.com/media/posts/1/responsive/IMG_5474-xs.JPG 300w ,https://moreno.vrancich.com/media/posts/1/responsive/IMG_5474-sm.JPG 480w ,https://moreno.vrancich.com/media/posts/1/responsive/IMG_5474-md.JPG 768w ,https://moreno.vrancich.com/media/posts/1/responsive/IMG_5474-lg.JPG 1024w ,https://moreno.vrancich.com/media/posts/1/responsive/IMG_5474-xl.JPG 1360w ,https://moreno.vrancich.com/media/posts/1/responsive/IMG_5474-2xl.JPG 1600w"  alt="ja" width="4000" height="3000"></figure>
             ]]>
         </content>
     </entry>
